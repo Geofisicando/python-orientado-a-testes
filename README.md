@@ -15,3 +15,7 @@
 ## Básico sobre testes em python com unittest
 
 - [#2 - Exemplo de suíte de testes simples com o unittest](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/unittest_exemplos/simples#exemplo-de-su%C3%ADte-de-testes-simples-com-o-unittest)
+
+## Testes no python com pytest
+
+- [Exemplo de suíte de testes simples com o pytest](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/pytest_exemplos#exemplo-de-su%C3%ADte-de-testes-simples-com-o-pytest)
