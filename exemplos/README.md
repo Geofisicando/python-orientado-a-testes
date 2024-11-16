@@ -4,6 +4,8 @@ Este é o repositório de códigos e materiais de apoio do curso de Python orien
 
 # Aula 1 - Configurações iniciais e instalação dos programas
 
+[⬆️ Voltar](https://github.com/Geofisicando/python-orientado-a-testes/tree/main#%C3%ADndice)
+
 ## Instalação das dependências
 
 Para fazer este curso você precisará instalar as seguintes dependências no Linux Ubuntu:
