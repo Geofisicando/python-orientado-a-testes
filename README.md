@@ -10,12 +10,13 @@
 
 ## Instalação do Python e das dependências
 
-- [#1 - Instalação das dependências](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos#exemplos-de-c%C3%B3digos-utilizados-no-curso)
+- [#1 - Configurações iniciais e instalação dos programas](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos#aula-1---configura%C3%A7%C3%B5es-iniciais-e-instala%C3%A7%C3%A3o-dos-programas) - Instalação dos programas e dependências dos exemplos do curso
 
 ## Básico sobre testes no python com unittest
 
-- [#2 - Exemplo de suíte de testes simples com o unittest](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/unittest_exemplos/simples#exemplo-de-su%C3%ADte-de-testes-simples-com-o-unittest)
-- [#3 - Estudo sobre lançar exception TypeError em função no python](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/unittest_exemplos/parametros#estudo-sobre-lan%C3%A7ar-exception-typeerror-em-fun%C3%A7%C3%A3o-no-python)
+- [#2 - Como fazer testes unitários em Python](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/unittest_exemplos/simples#aula-2---como-fazer-testes-unit%C3%A1rios-em-python) - Exemplo de suíte de testes simples no python com o unittest
+- [#3 - Testar o tipo dos parâmetros passados à função em python (Parte 1)](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/unittest_exemplos/parametros/pt1#aula-3---testar-o-tipo-dos-par%C3%A2metros-passados-%C3%A0-fun%C3%A7%C3%A3o-em-python-parte-1) - Estudo sobre lançar exception TypeError em função no python
+- [#4 - Testar o tipo dos parâmetros passados à função em python (Parte 2)](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/unittest_exemplos/parametros/pt2#aula-4---testar-o-tipo-dos-par%C3%A2metros-passados-%C3%A0-fun%C3%A7%C3%A3o-em-python-parte-2) - Testar parâmetros e exceptions passadas a função em python
 
 ## Básico sobre testes no python com pytest
 
