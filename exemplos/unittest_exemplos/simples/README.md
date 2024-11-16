@@ -1,4 +1,6 @@
-# Exemplo de suíte de testes simples com o unittest
+# Aula 2 - Como fazer testes unitários em Python
+
+## Exemplo de suíte de testes simples com o unittest
 
 [⬆️ Voltar](https://github.com/Geofisicando/python-orientado-a-testes/tree/main#%C3%ADndice)
 
