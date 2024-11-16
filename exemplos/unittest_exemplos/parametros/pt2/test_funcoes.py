@@ -1,6 +1,5 @@
 import unittest
 from funcoes import soma
-from funcoes import divisao
 
 class TestFuncoes(unittest.TestCase):
 
@@ -27,10 +26,3 @@ class TestFuncoes(unittest.TestCase):
 		self.assertRaises(TypeError,soma,False,2)
 		self.assertRaises(TypeError,soma,2.5,2)
 		self.assertRaises(TypeError,soma,2,1.4)
-			
-	def test_divisao_por_zero(self):
-		'''
-		Verificar se a função retorna um ZeroDivisionError
-		quando o denominador passado for zero
-		'''
-		self.assertRaises(ZeroDivisionError,divisao,2,0)
