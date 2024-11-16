@@ -15,6 +15,7 @@
 ## Básico sobre testes no python com unittest
 
 - [#2 - Exemplo de suíte de testes simples com o unittest](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/unittest_exemplos/simples#exemplo-de-su%C3%ADte-de-testes-simples-com-o-unittest)
+- [#3 - Estudo sobre lançar exception TypeError em função no python](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/unittest_exemplos/parametros#estudo-sobre-lan%C3%A7ar-exception-typeerror-em-fun%C3%A7%C3%A3o-no-python)
 
 ## Básico sobre testes no python com pytest
 
