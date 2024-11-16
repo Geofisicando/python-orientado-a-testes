@@ -2,7 +2,9 @@
 
 Este é o repositório de códigos e materiais de apoio do curso de Python orientado a testes.
 
-# Instalação das dependências
+# Aula 1 - Configurações iniciais e instalação dos programas
+
+## Instalação das dependências
 
 Para fazer este curso você precisará instalar as seguintes dependências no Linux Ubuntu:
 
