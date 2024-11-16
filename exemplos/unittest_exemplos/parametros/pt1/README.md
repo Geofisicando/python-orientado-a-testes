@@ -1,4 +1,4 @@
-# Estudo sobre lançar exception TypeError em função no python
+# Aula 3 - Testar o tipo dos parâmetros passados à função em python (Parte 1)
 
 [⬆️ Voltar](https://github.com/Geofisicando/python-orientado-a-testes/tree/main#%C3%ADndice)
 
