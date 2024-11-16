@@ -7,3 +7,7 @@
 # Índice
 
 - [Instalação das dependências](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos#exemplos-de-c%C3%B3digos-utilizados-no-curso)
+
+## Básico sobre testes em python com unittest
+
+- [#2 - Exemplo de suíte de testes simples com o unittest](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/unittest_exemplos/simples#exemplo-de-su%C3%ADte-de-testes-simples-com-o-unittest)
