@@ -6,7 +6,7 @@ Este é o repositório de códigos e materiais de apoio do curso de Python orien
 
 Para fazer este curso você precisará instalar as seguintes dependências no Linux Ubuntu:
 
-- Python3, pip3, PDB debugger (Depurador)
+- Python3, pip3, PDB debugger (Depurador), unittest, pytest
 
 Basta utilizar os comandos a seguir:
 
@@ -18,4 +18,10 @@ Após a instalação do python e do pip você precisará instalar o deburador PD
 
 ```
 sudo pip3 install ipdb
+```
+
+Para fazer a instalação dos frameworks para testes do python utilize:
+
+```
+pip3 install unittest pytest
 ```
