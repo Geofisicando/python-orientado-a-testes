@@ -18,6 +18,7 @@
 - [#3 - Testar o tipo dos parâmetros passados à função em python (Parte 1)](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/unittest_exemplos/parametros/pt1#aula-3---testar-o-tipo-dos-par%C3%A2metros-passados-%C3%A0-fun%C3%A7%C3%A3o-em-python-parte-1) - Estudo sobre lançar exception TypeError em função no python
 - [#4 - Testar o tipo dos parâmetros passados à função em python (Parte 2)](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/unittest_exemplos/parametros/pt2#aula-4---testar-o-tipo-dos-par%C3%A2metros-passados-%C3%A0-fun%C3%A7%C3%A3o-em-python-parte-2) - Testar parâmetros e exceptions passadas a função em python
 - [#5 - Testar erro de divisão por zero (zero division error) em python](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/unittest_exemplos/zero_division#aula-5---testar-erro-de-divis%C3%A3o-por-zero-zero-division-error-em-python)
+- [#6 - Automatizar os testes em python com Makefile](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/unittest_exemplos/automatizar#aula-6---automatizar-os-testes-em-python-com-makefile)
 
 ## Básico sobre testes no python com pytest
 
