@@ -22,4 +22,4 @@
 
 ## Básico sobre testes no python com pytest
 
-- [Exemplo de suíte de testes simples com o pytest](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/pytest_exemplos#exemplo-de-su%C3%ADte-de-testes-simples-com-o-pytest)
+- [#7 - Exemplo de suíte de testes simples com o pytest](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/pytest_exemplos#exemplo-de-su%C3%ADte-de-testes-simples-com-o-pytest)
