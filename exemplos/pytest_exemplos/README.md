@@ -1,4 +1,4 @@
-# Exemplo de suíte de testes simples com o pytest
+# Aula 7 - Exemplo de suíte de testes simples com o pytest
 
 [⬆️ Voltar](https://github.com/Geofisicando/python-orientado-a-testes/tree/main#%C3%ADndice)
 
