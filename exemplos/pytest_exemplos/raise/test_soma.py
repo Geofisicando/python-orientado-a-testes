@@ -5,10 +5,28 @@ def soma(x,y):
 		raise TypeError("x e y precisam ser do tipo int!")
 	return x+y
 
-def test_typeerror_raise():
+def test_raises_typeerror():
 	with pytest.raises(TypeError):
 		soma('1',2)
 	with pytest.raises(TypeError):
 		soma(1,'2')
 	with pytest.raises(TypeError):
-		soma('1','1')
+		soma('1','2')
+
+	with pytest.raises(TypeError):
+		soma(1,2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
