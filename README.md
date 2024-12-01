@@ -25,3 +25,4 @@
 - [#7 - Exemplo de suíte de testes simples com o pytest](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/pytest_exemplos/simples#aula-7---exemplo-de-su%C3%ADte-de-testes-simples-com-o-pytest)
 - [#8 - Verificar parâmetros passados a funções e exceptions no pytest](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/pytest_exemplos/raise#aula-8---verificar-par%C3%A2metros-passados-a-fun%C3%A7%C3%B5es-e-exceptions-no-pytest)
 - [#9 - Exception SystemExit e o modo silencioso do pytest](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/pytest_exemplos/system_exit#aula-9---exception-systemexit-e-o-modo-silencioso-do-pytest)
+- [#10 - Criar grupos de testes no pytest utilizando classes](https://github.com/Geofisicando/python-orientado-a-testes/tree/main/exemplos/pytest_exemplos/test_class#aula-10---criar-grupos-de-testes-no-pytest-utilizando-classes)
